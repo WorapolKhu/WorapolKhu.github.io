@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Worapol Khunaekanan"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Engineering student at KMUTT"
   location         : "Thailand"
   student          : "King Mongkut's University of Technology Thonburi"
   # LinkedIn         : "https://www.linkedin.com/in/worapol-khu/"
